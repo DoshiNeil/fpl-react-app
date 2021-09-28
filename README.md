@@ -1,5 +1,4 @@
 # Fantasy Portfolio League - React App
-======================================
 
 ## Introduction 
 ### Status Quo
